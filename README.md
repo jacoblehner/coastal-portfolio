@@ -46,7 +46,7 @@ Neural network, random forest and decision tree compared for landform mapping fr
 ---
 
 ### 5. Current research interests
-Current research interests are aimed at large scale tool development for whole coast analysis, inter- and intra-site representative power of barrier island morphology, and translating alongshore resistance/resilience variability in barrier dune systems translates to evolution and potential management practices.
+Current research interests are aimed at large scale tool development for whole coast analysis, inter- and intra-site representative power of barrier island morphology, and translating alongshore resistance/resilience variability in barrier dune systems translates to evolution and potential management practices. → [Project folder](05-current-research-interests/)
 
 
 ---
