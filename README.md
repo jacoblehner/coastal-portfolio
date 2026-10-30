@@ -20,7 +20,8 @@ DeepLabV3+ model that maps beach, dune, hummock and backbarrier landforms from e
 ### 2. Unsupervised dune classification with a masked autoencoder
 Self-supervised model that compresses 1,800 dune elevation samples from 12 coastal sites, then clusters them into 16 distinct dune shape types.
 
-<img src="02-dune-morphology-autoencoder/figures/umap-clusters-overview.png" width="650" alt="UMAP clusters">
+<img src="02-dune-morphology-autoencoder/figures/dbscan-clusters.png" width="650" alt="UMAP clusters">
+
 
 **Python · TensorFlow · masked autoencoder · UMAP · DBSCAN** → [Project folder](02-dune-morphology-autoencoder/)
 
@@ -44,34 +45,33 @@ Neural network, random forest and decision tree compared for landform mapping fr
 
 ---
 
-## Collaborative research
+### 5. Current research interests
+Current research interests are aimed at large scale tool development for whole coast analysis, inter- and intra-site representative power of barrier island morphology, and translating alongshore resistance/resilience variability in barrier dune systems translates to evolution and potential management practices.
 
-Co-authored work. Each entry states my contribution.
+
+---
+
+## Selected collaborative research
 
 #### Machine learning analysis of rip current warnings and rescues
-<!-- FIGURE: add collaborative/rip-current-ml.png -->
-*My role: [e.g., built the ML models and ran the analysis]*
-Houser, C., **Lehner, J.**, Wernette, P., and Cherry, N. (2019). *Natural Hazards and Earth System Sciences*, 19, 2541–2549. [Paper](LINK)
+Houser, C., **Lehner, J.**, Wernette, P., and Cherry, N. (2019). *Natural Hazards and Earth System Sciences*, 19, 2541–2549. 
 
 #### Comparing dune toe extraction methods
-<!-- FIGURE: add collaborative/dune-toe-comparison.png -->
-*My role: [describe]*
-Smith, A., **Lehner, J.**, Wills, C., Johnson, G. and Houser, C. (2025). *Science of the Total Environment*, 979, 179277. [Paper](LINK)
+Smith, A., **Lehner, J.**, Wills, C., Johnson, G. and Houser, C. (2025). *Science of the Total Environment*, 979, 179277. 
 
 #### Separating real erosion and deposition from data uncertainty
-<!-- FIGURE: add collaborative/erosion-uncertainty.png -->
-*My role: [describe]*
-Wernette, P., **Lehner, J.**, and Houser, C. (2020). *Geomorphology*, 355, 107083. [Paper](LINK)
+Wernette, P., **Lehner, J.**, and Houser, C. (2020). *Geomorphology*, 355, 107083. 
 
 #### Hurricane Harvey impacts on beach-dune morphology
-<!-- FIGURE: add collaborative/hurricane-harvey.png -->
-*My role: [describe]*
-Wernette, P., Houser, C., **Lehner, J.**, and Weymer, B. (2020). *Geomorphology*, 358, 107119. [Paper](LINK)
+Wernette, P., Houser, C., **Lehner, J.**, and Weymer, B. (2020). *Geomorphology*, 358, 107119. 
 
-**Perspective:** Houser, C., **Lehner, J.**, and Smith, A. (2022). The field geomorphologist in a time of machine learning and artificial intelligence. *Annals of the American Association of Geographers*. [Paper](LINK)
+**Perspective:** Houser, C., **Lehner, J.**, and Smith, A. (2022). The field geomorphologist in a time of machine learning and artificial intelligence. *Annals of the American Association of Geographers*. 
 
 📚 Full publication list: [Google Scholar](https://scholar.google.com/citations?user=bqUO7qIAAAAJ&hl=en&oi=ao)
 
 ---
 
 *Code in this repository is research code written during my PhD. It is shared to show methods and workflow and is not a packaged library. Source LiDAR data are publicly available from NOAA Digital Coast / USACE JALBTCX.*
+<!-- Co-authored work. Each entry states my contribution. -->
+<!-- FIGURE: add collaborative/rip-current-ml.png -->
+<!-- *My role: [e.g., built the ML models and ran the analysis]* -->

@@ -4,7 +4,7 @@
 **Method:** Samples were cut automatically from each site's elevation model, aligned to the shoreline and fed to a masked autoencoder (75% masking, TensorFlow 2.10). The learned encodings were reduced with UMAP and clustered with DBSCAN.
 **Result:** 16 dune shape types in 5 broader groups. Within-site and between-site similarity shows which coastlines share dune forms, which can support dune management and conservation.
 
-📄 Dissertation Chapter 5 — *Unmasking the topographic complexity of coastal barrier systems* (in preparation)
+📄 Dissertation Chapter 5 — ●	Lehner, J., Johnson, G., Smith, A. and Houser, C., 2026. Unmasking the topographic complexity of coastal barrier foredunes. Geomorphology, p.110312.
 
 ## Figures
 

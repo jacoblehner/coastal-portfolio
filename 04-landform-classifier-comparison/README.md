@@ -4,7 +4,6 @@
 **Method:** A multilayer perceptron neural network, a random forest and a classification tree, each trained to classify beach, dune, hummock, backbarrier and tidal flat. SHAP values explain which inputs drive each model's predictions, and dune toe and crest positions were extracted from each model's output and compared.
 **Result:** Random forest ~98.7%, neural network ~97.7%, classification tree ~92.2%. Beach and tidal flat were classified at over 99%. The models were tested on sites 3.7 km and 17 km from the training area.
 
-📄 Dissertation Chapter 3 — *Landform delineation on a coastal barrier using machine learning* (in preparation)
 
 ## Figures
 
