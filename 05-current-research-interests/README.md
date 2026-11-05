@@ -17,6 +17,9 @@
 <img src="figures/PEI_map.png" width="700">
 <img src="figures/pei_samples.png" width="500">
 
+**XBeach Modeling of Washover Influence**
+
+<img src="figures/surface.png" width="700">
 
 **System-wide dune morphometric extraction** 
 *developing*
