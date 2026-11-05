@@ -20,6 +20,8 @@
 **XBeach Modeling of Washover Influence**
 
 <img src="figures/surface.gif" width="700">
+<img src="figures/surface2.gif" width="700">
+<img src="figures/surface3.gif" width="700">
 
 **System-wide dune morphometric extraction** 
 *developing*
